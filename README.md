@@ -5,7 +5,7 @@ A Claude Code skill: 20 premium vertical video edits built in Remotion on your o
 ## Install
 
 ```bash
-git clone https://github.com/projectgabis-dotcom/claude-code-edits.git ~/.claude/skills/claude-code-edits
+git clone https://github.com/yassinebssl/claude-code-edits.git ~/.claude/skills/claude-code-edits
 ```
 
 Claude Code picks it up on the next session. Works best with the Remotion plugin (`claude plugin marketplace add remotion-dev/claude-code-plugin`, then `claude plugin install remotion@remotion`).
